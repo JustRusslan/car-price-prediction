@@ -20,7 +20,7 @@ This project demonstrates the full pipeline of collecting, cleaning, and modelin
 
 ## 📈 Model Performance
 
-| Model                 | R² Score |
+| Model                 | Score |
 |----------------------|----------|
 | Linear Regression     | ~0.54    |
 | Random Forest Regressor | ~0.82 |
