@@ -33,6 +33,4 @@ This project demonstrates the full pipeline of collecting, cleaning, and modelin
 ## 🛠️ Libraries
 `pandas`, `scikit-learn`, `matplotlib`, `seaborn`, `BeautifulSoup`
 
---
-
 Made by Ruslan Sadyrbekov
