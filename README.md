@@ -23,7 +23,7 @@ This project demonstrates the full pipeline of collecting, cleaning, and modelin
 | Model                 | Score |
 |----------------------|----------|
 | Linear Regression     | ~0.54    |
-| Random Forest Regressor | ~0.82 |
+| Random Forest Regressor | ~0.91 |
 
 ## 📊 Most Important Features
 1. Engine volume
